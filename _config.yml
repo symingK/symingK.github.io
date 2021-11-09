@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "운심부지처"
+title                    : "우정리"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "고소남씨 남시연"
-description              : "운몽, 청하, 고소, 기산, 난릉으로 #가보자고"
+name                     : "시연댁"
+description              : "여름 방학 되면 놀러올거제? #우정리 #자빱"
 url                      : "https://symingK.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "symingK.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "고소남씨 남시연"
+  name             : "시연댁"
   avatar           : "/assets/images/cat.png"
-  bio              : "극단적 낭만주의자"
+  bio              : "우정리 토박이(18)"
   location         : "대한민국, 용인"
   email            : "21-20304@hafs.hs.kr"
   links:
